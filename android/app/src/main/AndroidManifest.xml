@@ -1,4 +1,4 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.janmalinski.udemy.fastlane">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.janmalinski.fastlane">
 
     <uses-permission android:name="android.permission.INTERNET" />
 

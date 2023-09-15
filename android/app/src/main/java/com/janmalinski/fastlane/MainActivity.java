@@ -1,4 +1,4 @@
-package com.janmalinski.udemy.fastlane;
+package com.janmalinski.fastlane;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

@@ -1,4 +1,4 @@
-package com.janmalinski.udemy.fastlane;
+package com.janmalinski.fastlane;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

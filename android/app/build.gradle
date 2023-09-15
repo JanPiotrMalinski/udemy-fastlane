@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.janmalinski.udemy.fastlane"
+    namespace "com.janmalinski.fastlane"
     defaultConfig {
-        applicationId "com.janmalinski.udemy.fastlane"
+        applicationId "com.janmalinski.fastlane"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
